@@ -17,4 +17,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreiYantsevich&layout=compact&theme=dracula)
 
+![snake gif](https://github.com/VictoriaDanilenko/VictoriaDanilenko/blob/output/github-contribution-grid-snake.gif)
+
 ### Want to know more about me? [Check out my portfolio.](https://andreiyantsevich.github.io/portfolio/)
