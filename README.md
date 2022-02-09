@@ -2,7 +2,7 @@
 ## 👨🏻‍💻 I'm a Frontend Developer from Minsk, Belarus
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/yantsev1ch)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=4285B4)](https://www.linkedin.com/in/andrei-yantsevich/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-282c34?style=for-the-badge&logo=linkedin&logoColor=4285B4)](https://www.linkedin.com/in/yantsev1ch/)
 [![Codewars](https://img.shields.io/badge/-Codewars-282c34?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/yantsev1ch)
 
 #### 🎯 I'm  always up for new connections and collaborations
