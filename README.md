@@ -1,4 +1,4 @@
-[![Andrei GitHub Banner](./MyBanner.png)](https://yantsev1ch.github.io/portfolio/)
+[![Andrey GitHub Banner](./MyBanner.png)](https://yantsev1ch.github.io/portfolio/)
 ## 👨🏻‍💻 I'm a Frontend Developer from Minsk, Belarus
 
 [![Telegram](https://img.shields.io/badge/-Telegram-282c34?style=for-the-badge&logo=telegram)](https://t.me/yantsev1ch)
